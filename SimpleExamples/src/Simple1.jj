@@ -55,7 +55,13 @@ public class Simple1 {
   /** Main entry point. */
   public static void main(String args[]) throws ParseException {
     Simple1 parser = new Simple1(System.in);
-    parser.Input();
+    while(true){
+        try {
+            parser.Input();
+        }   catch (Exception ext){
+           System.out.println(ext);
+        }
+    }
   }
 
 }
