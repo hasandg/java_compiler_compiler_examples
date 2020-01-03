@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tis-bm/!svn/ver/304234/sfw/trunk/javacc-6.0/examples/GUIParsing/TokenMgrVersion
+END
+CalcInput.jj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tis-bm/!svn/ver/304234/sfw/trunk/javacc-6.0/examples/GUIParsing/TokenMgrVersion/CalcInput.jj
+END
+CharCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tis-bm/!svn/ver/304234/sfw/trunk/javacc-6.0/examples/GUIParsing/TokenMgrVersion/CharCollector.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tis-bm/!svn/ver/304234/sfw/trunk/javacc-6.0/examples/GUIParsing/TokenMgrVersion/Main.java
+END
+MyLexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tis-bm/!svn/ver/304234/sfw/trunk/javacc-6.0/examples/GUIParsing/TokenMgrVersion/MyLexer.java
+END
+CalcGUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tis-bm/!svn/ver/304234/sfw/trunk/javacc-6.0/examples/GUIParsing/TokenMgrVersion/CalcGUI.java
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tis-bm/!svn/ver/304234/sfw/trunk/javacc-6.0/examples/GUIParsing/TokenMgrVersion/README
+END

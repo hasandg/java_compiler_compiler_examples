@@ -1,0 +1,17 @@
+proje kapsamýnda kullanýlan jj dosyalarýndan java kodu üretmek için kullanýlýr. Ör: NotamDecoder.jj
+
+
+Javacc Kullanýmý 
+
+
+Bilgisayardan ortam deðiþkenlerinde PATH deðiþkenine M:\sfw\javacc-6.0\bin deðeri eklenir. 
+
+
+Örneðin NotamDecoder için NotamDecoder.jj dosyasýnýn bulunduðu klasörde  
+
+javacc NotamDecoder.jj komutu çalýþtýrýlýr. java dosyalarýnýn üretildiði görülür.
+
+
+Not: Bazý durumlarda cmd de javacc çalýþtýðý halde modül klasöründe(ÖR: M:\prj\bm\modules\integration\client\src\tr\com\havelsan\tis\client\integration\parsers\dhmi\parser\notam) 
+javacc komutu çalýþmýyorsa, M: diskinde cmd çalýþtýrýlýr "cd M:\prj\bm\modules\integration\client\src\tr\com\havelsan\tis\client\integration\parsers\dhmi\parser\notam" gibi bir komutla 
+ilgili dizine gidilir. javacc çalýþtýrýlýr.
